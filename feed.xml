@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Wowpay Blog</title>
+    <link href="https://sri-wowpay.github.io/blog/feed.xml" rel="self" />
+    <link href="https://sri-wowpay.github.io/blog" />
+    <updated>2022-11-06T20:00:24+08:00</updated>
+    <author>
+        <name>Sri</name>
+    </author>
+    <id>https://sri-wowpay.github.io/blog</id>
+
+    <entry>
+        <title>Sample post</title>
+        <author>
+            <name>Sri</name>
+        </author>
+        <link href="https://sri-wowpay.github.io/blog/sample-post.html"/>
+        <id>https://sri-wowpay.github.io/blog/sample-post.html</id>
+        <media:content url="https://sri-wowpay.github.io/blog/media/posts/1/wowpay-logo-colour.png" medium="image" />
+
+        <updated>2022-11-06T20:00:24+08:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://sri-wowpay.github.io/blog/media/posts/1/wowpay-logo-colour.png" alt="" />
+                    Sample post on wowpay blog to check if GH pages are working.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://sri-wowpay.github.io/blog/media/posts/1/wowpay-logo-colour.png" class="type:primaryImage" alt="" /></p>
+                <p>Sample post on wowpay blog to check if GH pages are working.</p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>

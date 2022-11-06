@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Wowpay Blog",
+    "description": "",
+    "home_page_url": "https://sri-wowpay.github.io/blog",
+    "feed_url": "https://sri-wowpay.github.io/blog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Sri"
+    },
+    "items": [
+        {
+            "id": "https://sri-wowpay.github.io/blog/sample-post.html",
+            "url": "https://sri-wowpay.github.io/blog/sample-post.html",
+            "title": "Sample post",
+            "summary": "Sample post on wowpay blog to check if GH pages are working.",
+            "content_html": "<p>Sample post on wowpay blog to check if GH pages are working.</p>\n<p> </p>\n<p> </p>",
+            "image": "https://sri-wowpay.github.io/blog/media/posts/1/wowpay-logo-colour.png",
+            "author": {
+                "name": "Sri"
+            },
+            "tags": [
+            ],
+            "date_published": "2022-11-06T19:58:53+08:00",
+            "date_modified": "2022-11-06T20:00:24+08:00"
+        }
+    ]
+}
