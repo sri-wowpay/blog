@@ -3,7 +3,7 @@
     <title>Wowpay Blog</title>
     <link href="https://sri-wowpay.github.io/blog/feed.xml" rel="self" />
     <link href="https://sri-wowpay.github.io/blog" />
-    <updated>2022-11-06T20:57:01+08:00</updated>
+    <updated>2022-11-06T20:59:18+08:00</updated>
     <author>
         <name>Sri</name>
     </author>
@@ -14,11 +14,11 @@
         <author>
             <name>Sri</name>
         </author>
-        <link href="https://sri-wowpay.github.io/blog/sample-post.html"/>
-        <id>https://sri-wowpay.github.io/blog/sample-post.html</id>
+        <link href="https://sri-wowpay.github.io/blog/need-of-payment-orchestration.html"/>
+        <id>https://sri-wowpay.github.io/blog/need-of-payment-orchestration.html</id>
         <media:content url="https://sri-wowpay.github.io/blog/media/posts/1/undraw_online_transactions_02ka.png" medium="image" />
 
-        <updated>2022-11-06T20:57:01+08:00</updated>
+        <updated>2022-11-06T20:59:18+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sri-wowpay.github.io/blog/media/posts/1/undraw_online_transactions_02ka.png" alt="" />
