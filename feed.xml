@@ -3,7 +3,7 @@
     <title>Wowpay Blog</title>
     <link href="https://sri-wowpay.github.io/blog/feed.xml" rel="self" />
     <link href="https://sri-wowpay.github.io/blog" />
-    <updated>2022-11-06T20:50:58+08:00</updated>
+    <updated>2022-11-06T20:57:01+08:00</updated>
     <author>
         <name>Sri</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://sri-wowpay.github.io/blog/sample-post.html</id>
         <media:content url="https://sri-wowpay.github.io/blog/media/posts/1/undraw_online_transactions_02ka.png" medium="image" />
 
-        <updated>2022-11-06T20:50:58+08:00</updated>
+        <updated>2022-11-06T20:57:01+08:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://sri-wowpay.github.io/blog/media/posts/1/undraw_online_transactions_02ka.png" alt="" />
@@ -31,7 +31,7 @@
                 <p>Payment orchestration for global e-commerce is expected to grow 20% YoY from 2021 to 2026. For any online business that needs to offer multiple payment options for customers worldwide, payment orchestration is a valuable service. If you’re new to this payment topic, keep reading to learn what payment orchestration is, the benefits of using this service, and how it works for businesses.  </p>
 <h3>Terminology</h3>
 <p>For easier understanding, it's better to get some terms right.  </p>
-<figure class="post__image align-center"><img loading="lazy"  src="file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/psp2.png" alt="" width="234" height="390" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/responsive/psp2-xs.png 384w ,file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/responsive/psp2-sm.png 600w ,file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/responsive/psp2-md.png 768w ,file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/responsive/psp2-lg.png 1200w ,file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/responsive/psp2-xl.png 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sri-wowpay.github.io/blog/media/posts/1/psp2.png" alt="" width="297" height="495" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://sri-wowpay.github.io/blog/media/posts/1/responsive/psp2-xs.png 384w ,https://sri-wowpay.github.io/blog/media/posts/1/responsive/psp2-sm.png 600w ,https://sri-wowpay.github.io/blog/media/posts/1/responsive/psp2-md.png 768w ,https://sri-wowpay.github.io/blog/media/posts/1/responsive/psp2-lg.png 1200w ,https://sri-wowpay.github.io/blog/media/posts/1/responsive/psp2-xl.png 1600w"></figure>
 <p><span style="color: #ffffff;"><strong><span style="color: #000000;">Payment Service Provider(PSP):</span></strong> </span>A payment service provider is a financial institution that enables an online transaction. It links merchants with card networks and payment processors for payment processing. A PSP provides a merchant account and payment gateway for the collection and management of payments.</p>
 <p><strong><span style="color: #000000;">Payment Gateway:</span></strong> Payment gateway is a software behind credit card transactions between a merchant and their customers. Upon entering the payment information on the merchant’s website, the payment gateway connects to the payment service provider to process the transaction.</p>
 <p><span style="color: #ffffff;"><strong><span style="color: #000000;">Payment Method:</span></strong> </span>This is how you choose to pay. Most popular methods are Credit cards, Debit Cards, Internet Banking, Paypal, e-Wallets etc </p>
@@ -65,7 +65,7 @@
 <li>Offer standardised checkout page </li>
 </ol>
 <p>Just imagine to control something like this using UI within browser rather than writing hundreds of lines of code:</p>
-<figure class="post__image"><img loading="lazy"  src="file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/PoP.001.jpeg" alt="" width="1920" height="1080" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/responsive/PoP.001-xs.jpeg 384w ,file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/responsive/PoP.001-sm.jpeg 600w ,file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/responsive/PoP.001-md.jpeg 768w ,file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/responsive/PoP.001-lg.jpeg 1200w ,file:///Users/sri/Documents/Publii/sites/srinivas/input/media/posts/12/responsive/PoP.001-xl.jpeg 1600w"></figure>
+<figure class="post__image"><img loading="lazy"  src="https://sri-wowpay.github.io/blog/media/posts/1/PoP.001-2.jpeg" alt="" width="1920" height="1080" sizes="(min-width: 37.5em) 1600px, 80vw" srcset="https://sri-wowpay.github.io/blog/media/posts/1/responsive/PoP.001-2-xs.jpeg 384w ,https://sri-wowpay.github.io/blog/media/posts/1/responsive/PoP.001-2-sm.jpeg 600w ,https://sri-wowpay.github.io/blog/media/posts/1/responsive/PoP.001-2-md.jpeg 768w ,https://sri-wowpay.github.io/blog/media/posts/1/responsive/PoP.001-2-lg.jpeg 1200w ,https://sri-wowpay.github.io/blog/media/posts/1/responsive/PoP.001-2-xl.jpeg 1600w"></figure>
 <p>With payment orchestration platforms this is possible using few clicks.   </p>
 <p>Wowpay is the first payment orcehstration platform in south east asia, focussed on saving transaction costs for merchants.  </p>
 <p> </p>
