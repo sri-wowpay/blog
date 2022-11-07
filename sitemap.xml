@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://blog.wowpay.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://sri-wowpay.github.io/blog/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://blog.wowpay.io/</loc>
+<loc>https://sri-wowpay.github.io/blog/</loc>
 </url>
 <url>
-<loc>https://blog.wowpay.io/need-of-payment-orchestration.html</loc>
+<loc>https://sri-wowpay.github.io/blog/need-of-payment-orchestration.html</loc>
 <lastmod>2022-11-06T20:59:18+08:00</lastmod>
 <image:image>
-<image:loc>https://blog.wowpay.io/media/posts/1/undraw_online_transactions_02ka.png</image:loc>
+<image:loc>https://sri-wowpay.github.io/blog/media/posts/1/undraw_online_transactions_02ka.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blog.wowpay.io/media/posts/1/psp2.png</image:loc>
+<image:loc>https://sri-wowpay.github.io/blog/media/posts/1/psp2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>https://blog.wowpay.io/media/posts/1/PoP.001-2.jpeg</image:loc>
+<image:loc>https://sri-wowpay.github.io/blog/media/posts/1/PoP.001-2.jpeg</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 </url>
